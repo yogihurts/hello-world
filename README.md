@@ -1,3 +1,3 @@
 # hello-world
 GitHub Training
-My names is Irina
+My name is Irina
